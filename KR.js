@@ -1,0 +1,38 @@
+function calc(){
+    var result=0;
+    if (document.getElementById("m1").checked)
+        result+= parseInt(document.form1.m1p.value.slice(0,document.form1.m1p.value.indexOf(" ")))
+    if (document.getElementById("m2").checked)
+        result+= parseInt(document.form1.m2p.value.slice(0,document.form1.m2p.value.indexOf(" ")))
+    if (document.getElementById("m3").checked)
+        result+= parseInt(document.form1.m3p.value.slice(0,document.form1.m3p.value.indexOf(" ")))
+    if (document.getElementById("m4").checked)
+        result+= parseInt(document.form1.m4p.value.slice(0,document.form1.m4p.value.indexOf(" ")))
+    if (document.getElementById("m5").checked)
+        result+= parseInt(document.form1.m5p.value.slice(0,document.form1.m5p.value.indexOf(" ")))
+    if (document.getElementById("m6").checked)
+        result+= parseInt(document.form1.m6p.value.slice(0,document.form1.m6p.value.indexOf(" ")))
+    if (document.getElementById("m7").checked)
+        result+= parseInt(document.form1.m7p.value.slice(0,document.form1.m7p.value.indexOf(" ")))
+    if (document.getElementById("m8").checked)
+        result+= parseInt(document.form1.m8p.value.slice(0,document.form1.m8p.value.indexOf(" ")))
+    if (document.getElementById("m9").checked)
+        result+= parseInt(document.form1.m9p.value.slice(0,document.form1.m9p.value.indexOf(" ")))
+    if (document.getElementById("m10").checked)
+        result+= parseInt(document.form1.m10p.value.slice(0,document.form1.m10p.value.indexOf(" ")))
+    if (document.getElementById("m11").checked)
+        result+= parseInt(document.form1.m11p.value.slice(0,document.form1.m11p.value.indexOf(" ")))
+    if (document.getElementById("m12").checked)
+        result+= parseInt(document.form1.m12p.value.slice(0,document.form1.m12p.value.indexOf(" ")))
+    if (document.getElementById("m13").checked)
+        result+= parseInt(document.form1.m13p.value.slice(0,document.form1.m13p.value.indexOf(" ")))
+    if (document.getElementById("m14").checked)
+        result+= parseInt(document.form1.m14p.value.slice(0,document.form1.m14p.value.indexOf(" ")))
+    if (document.getElementById("m15").checked)
+        result+= parseInt(document.form1.m15p.value.slice(0,document.form1.m15p.value.indexOf(" ")))
+    if (document.getElementById("m16").checked)
+        result+= parseInt(document.form1.m16p.value.slice(0,document.form1.m16p.value.indexOf(" ")))
+    form1.sum.value=result;
+
+        }
+
