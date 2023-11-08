@@ -1,2 +1,2 @@
 # Home
-####https://lissnika.github.io/Home/Kr/Main.html
+####https://lissnika.github.io/Home/Kr1/Main.html
