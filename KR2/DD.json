@@ -1,0 +1,246 @@
+[
+  {
+    "id": "1",
+    "title": "Слон",
+    "vendor_code": "111",
+    "description": "Игрушка из папье-маше",
+    "price": 500,
+    "img": "P/1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Кролик с барабаном",
+    "vendor_code": "222",
+    "description": "Игрушка из папье-маше",
+    "price": 780,
+    "img": "P/2.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Крольчиха-Красная Шапочка",
+    "vendor_code": "333",
+    "description": "Игрушка из папье-маше",
+    "price": 800,
+    "img": "P/3.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Барашки",
+    "vendor_code": "444e",
+    "description": "Описание 4",
+    "price": 580,
+    "img": "P/4.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Медведь",
+    "vendor_code": "4445e",
+    "description": "Описание 6",
+    "price": 900,
+    "img": "P/5.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Домик",
+    "vendor_code": "4446e",
+    "description": "Описание 6",
+    "price": 450,
+    "img": "P/6.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Звёзды",
+    "vendor_code": "4447e",
+    "description": "Описание 7",
+    "price": 1900,
+    "img": "P/7.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Пряники",
+    "vendor_code": "4448e",
+    "description": "Описание 8",
+    "price": 1000,
+    "img": "P/8.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Шарики",
+    "vendor_code": "444e",
+    "description": "Описание 9",
+    "price": 1200,
+    "img": "P/9.jpg"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Ёлочка",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 1600,
+    "img": "P/10.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Звёздочки",
+    "vendor_code": "44411e",
+    "description": "Описание 1",
+    "price": 1200,
+    "img": "P/11.jpg"
+  }
+  ,
+  {
+    "id": "12",
+    "title": "Домики",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 2000,
+    "img": "P/12.jpg"
+  }
+  ,
+  {
+    "id": "13",
+    "title": "Снежная ёлка",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 4000,
+    "img": "P/13.jpg"
+  }
+  ,
+  {
+    "id": "14",
+    "title": "Ёлка фонарики",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 5000,
+    "img": "P/14.jpg"
+  }
+  ,
+  {
+    "id": "15",
+    "title": "Ёлка в снегу",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 4500,
+    "img": "P/15.jpg"
+  }
+  ,
+  {
+    "id": "16",
+    "title": "Ёлочка",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 3500,
+    "img": "P/16.jpg"
+  }
+  ,
+  {
+    "id": "17",
+    "title": "Конфеты-шарики",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 1000,
+    "img": "P/17.jpg"
+  }
+  ,
+  {
+    "id": "18",
+    "title": "Леденцы",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 700,
+    "img": "P/18.jpg"
+  }
+  ,
+  {
+    "id": "19",
+    "title": "Конфетки",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 500,
+    "img": "P/19.jpg"
+  }
+  ,
+  {
+    "id": "20",
+    "title": "Пряник-ёлка",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 800,
+    "img": "P/20.jpg"
+  }
+  ,
+  {
+    "id": "21",
+    "title": "Пряня",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 1200,
+    "img": "P/21.jpg"
+  }
+  ,
+  {
+    "id": "22",
+    "title": "Пряники-снежинки",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 1000,
+    "img": "P/22.jpg"
+  }
+  ,
+  {
+    "id": "23",
+    "title": "Новый год",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 1800,
+    "img": "P/23.jpg"
+  }
+  ,
+  {
+    "id": "24",
+    "title": "Рождество",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 2000,
+    "img": "P/24.jpg"
+  }
+  ,
+  {
+    "id": "25",
+    "title": "Лес",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 1800,
+    "img": "P/25.jpg"
+  }
+  ,
+  {
+    "id": "26",
+    "title": "Набор",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 1000,
+    "img": "P/26.jpg"
+  }
+  ,
+  {
+    "id": "27",
+    "title": "Звёзды",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 780,
+    "img": "P/27.jpg"
+  }
+  ,
+  {
+    "id": "28",
+    "title": "Соты",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 800,
+    "img": "P/28.jpg"
+  }
+
+]
